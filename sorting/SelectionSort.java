@@ -1,3 +1,4 @@
+//WAP to show selection sort in java
 class SelectionSort{
     public static void main(String args[]){
     int a[]={7,4,10,8,3,1};
